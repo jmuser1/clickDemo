@@ -1,11 +1,11 @@
 // replace value below with your Account ID //
-var dsAccountId = '53e87a81-3ab4-43d4-9d29-b7861bfc1e1e';
+var dsAccountId = 'ac45016b-3bc2-486c-8ac8-a9daa8fdb9a8';
 //  replace value below with your Clickwrap ID //
-var dsClickwrapId = '8d6ef161-0398-40d7-be90-03136af40036';
+var dsClickwrapId = 'bcc040bf-84cd-4db8-9184-be9e5856c99a';
 // replace value below with modal or inline depending on your clickwrap type //
 var clickDisplayType = 'modal';
 // replace logo URL below with your customers logo url.  transparent works best //
-var logoUrl = 'https://www.innov8ive.app/LOGO.png';
+var logoUrl = 'https://dsdemos.esigndemos.com/DSFLimited/images/DSFLimitedLogo2.png';
 // replace with your brand hex code.  changes color of header text and button background //
 var fontColor = '#3d00b2';
 // replace with a hex code of your liking.  changes text color on the submit button //
